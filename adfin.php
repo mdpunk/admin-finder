@@ -13,10 +13,13 @@ print "
 ██╔══██║██║  ██║██║╚██╔╝██║██║██║╚██╗██║    ██╔══╝  ██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
 ██║  ██║██████╔╝██║ ╚═╝ ██║██║██║ ╚████║    ██║     ██║██║ ╚████║██████╔╝███████╗██║  ██║
 ╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-                                                                                         
-                Admin Finder - coded by ./Mr.cakil
-  Information list : 4001 list
-  Thanks to  :IndoXploit - AnonCyberTeam - 99syndicate
+  
+  ###########################################################
+  ##           Admin Finder - coded by ./MdPunk.           ##
+  ##           Information list : 4001 list.               ##
+  ##           Https://github.com/mdpunk/admin-finder.     ##                                           ##
+  ###########################################################
+  
 ";
 
 echo "masukan site  : ";
